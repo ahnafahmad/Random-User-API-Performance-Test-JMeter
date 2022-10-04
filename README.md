@@ -18,4 +18,21 @@
 
  ## Prerequisite
   - JDK must be installed
+  
+ ## Jmeter Performance Testing Image
+ 
+ ### Load Test Strategy
+ 
+ ![Load Test Strategy](https://user-images.githubusercontent.com/58990500/193929123-2d73006f-9819-4f90-a2cd-1cccfc035fcb.PNG)
 
+ ### Stress Test Strategy 
+ 
+ ![stress test point](https://user-images.githubusercontent.com/58990500/193929325-dfc0608b-babd-4ff1-b47d-454c02a872d6.PNG)
+ 
+ ### Jmeter Summary (Stress Test Point)
+ 
+![Error 5 47](https://user-images.githubusercontent.com/58990500/193929705-7b3b012b-95c0-49f7-9cf1-af60d0178753.PNG)
+
+### Jemeter Summary (No Error)
+
+![3900](https://user-images.githubusercontent.com/58990500/193929809-fd3deb75-0f84-47fc-ab84-c20d48b4f387.PNG)
