@@ -1,7 +1,7 @@
 # Random-User-API-Performance-Test-Jmeter
 
 ## Technology and Tools used in this Project
-- Jmeter
+- JMeter
 
 ## Project Scenarios
  - Here Load testing is performed using [Random Data API](https://random-data-api.com/api/v2/users) where the expected load is 120000 for 12 hours. 
